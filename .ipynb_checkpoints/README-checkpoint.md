@@ -1,7 +1,6 @@
 # SIR COVID19 
 ![GitHub](https://img.shields.io/github/license/DAP93/SIR_COVID19)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DAP93/SIR_COVID19)
-#![GitHub All Releases](https://img.shields.io/github/downloads/DAP93/SIR_COVID19/total)
 ![GitHub followers](https://img.shields.io/github/followers/DAP93?style=social)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPaolo1193)
 
@@ -19,3 +18,8 @@ Il modello è stato svlippato in IPython (Python 3.6), ed è fruibile attraverso
 
 ### *CASI MONDO*
 <img src="plot_WRD.png" alt="plot_ita" width="90%" align="middle"/>
+
+---
+##### Dati sorgente
+Italia: [Protezione civile](https://github.com/pcm-dpc/COVID-19.git)
+Mondo: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19.git)
