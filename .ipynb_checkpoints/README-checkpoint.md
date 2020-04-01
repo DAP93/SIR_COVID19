@@ -22,4 +22,5 @@ Il modello è stato svlippato in IPython (Python 3.6), ed è fruibile attraverso
 ---
 ##### Dati sorgente
 Italia: [Protezione civile](https://github.com/pcm-dpc/COVID-19.git)
+
 Mondo: [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19.git)
