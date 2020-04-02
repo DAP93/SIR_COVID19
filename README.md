@@ -1,9 +1,8 @@
 # SIR COVID19 ![GitHub](https://img.shields.io/github/license/DAP93/SIR_COVID19) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DAP93/SIR_COVID19) ![GitHub followers](https://img.shields.io/github/followers/DAP93?style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPaolo1193)
 
 
-<p style='text-align: right; font-size:9px;'><i> Ultima modifica 2 Aprile 20200</i></p>
+<div style='text-align:right; font-size:9px;'><i> Ultima modifica 2 Aprile 20200</i></div>
     
----
 
 
 Modello SIR (Susceptible-Infected-Recovered) applicato al caso COVID-19 come puro esercizio. 
