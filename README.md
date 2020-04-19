@@ -4,7 +4,7 @@
 
 
 Modello SIR (Susceptible-Infected-Recovered) applicato al caso COVID-19 come puro esercizio. 
-Tale risultati vanno intesi come risultati di uno studio scentifico, ma solo come sfizion "modellistico" di uno studente.
+Tale risultati non vanno intesi come risultati di uno studio scentifico, ma solo come uno sfizio "modellistico" di uno studente.
 Il modello è stato svlippato in IPython (Python 3.6), ed è fruibile attraverso il [notebook Jupyter covid19](covid19.ipynb).
 
 ### *CASI ITALIA*
