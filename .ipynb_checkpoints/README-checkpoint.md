@@ -1,10 +1,10 @@
 # SIR COVID19 ![GitHub](https://img.shields.io/github/license/DAP93/SIR_COVID19) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/DAP93/SIR_COVID19) ![GitHub followers](https://img.shields.io/github/followers/DAP93?style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FPaolo1193)
 
-<sub><i> ultima modifica 18 Aprile 20200</i></sub>
+<sub><i> ultima modifica 1 MAggio 2020</i></sub>
 
 
 Modello SIR (Susceptible-Infected-Recovered) applicato al caso COVID-19 come puro esercizio. 
-Tale risultati vanno intesi come risultati di uno studio scentifico, ma solo come sfizion "modellistico" di uno studente.
+Tale risultati non vanno intesi come risultati di uno studio scentifico, ma solo come uno sfizio "modellistico" di uno studente.
 Il modello è stato svlippato in IPython (Python 3.6), ed è fruibile attraverso il [notebook Jupyter covid19](covid19.ipynb).
 
 ### *CASI ITALIA*
